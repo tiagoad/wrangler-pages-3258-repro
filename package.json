@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "sideEffects": false,
+  "scripts": {
+    "wrangler": "wrangler pages dev ./public"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "wrangler": "^2.20.0"
+  },
+  "engines": {
+    "node": ">=16.13"
+  }
+}
